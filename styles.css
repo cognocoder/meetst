@@ -1,0 +1,36 @@
+body {
+	background-color: #424242;
+	margin: 0;
+}
+
+main {
+	align-items: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 0;
+	overflow: auto;
+}
+
+article {
+	background-color: #777;
+	margin: 0;
+	position: relative;
+	width: 100%;
+}
+
+video {
+	width: 100%;
+}
+
+h2 {
+	background-color: #444;
+	border: 1px solid #222;
+	bottom: 0px;
+	color: #f2f2f2;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: medium;
+	margin: 0;
+	padding: 1ex 2ex;
+	position: absolute;
+}
